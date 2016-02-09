@@ -4,6 +4,7 @@
         ""
     ],
     "companyName": "jorgecrb@gmail.com",
+    "enableMultiJS": false,
     "longName": "SleepLeft",
     "projectType": "native",
     "resources": {
@@ -13,8 +14,7 @@
     "shortName": "SleepLeft",
     "targetPlatforms": [
         "aplite",
-        "basalt",
-        "chalk"
+        "basalt"
     ],
     "uuid": "3a0b343b-88e3-4487-946a-21a3d8c5c0a1",
     "versionLabel": "1.0",
